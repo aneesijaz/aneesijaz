@@ -1,21 +1,18 @@
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【ＡＮＥＥＳ　ＩＪＡＺ】
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ɪ ᴀᴍ ᴀ ꜱᴛᴜᴅᴇɴᴛ ᴏꜰ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀᴛ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ɢᴜᴊʀᴀᴛ.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ | ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ | Qᴜɪᴄᴋ ʟᴇᴀʀɴᴇʀ | ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ʟᴏᴠᴇʀ
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ʟᴏᴠᴇ ᴛᴏ ᴡᴏʀᴋ ᴏɴ ɴᴇᴡ ᴘʀᴏᴊᴇᴄᴛ ᴇᴠᴇʀʏ ᴅᴀʏ.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ᴏᴘᴇɴ ꜰᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴏɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴘʀᴏᴊᴇᴄᴛ.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ꜱᴏᴍᴇ ᴘʀᴏꜰɪʟᴇꜱ ʏᴏᴜ ᴍᴀʏ ᴡᴀɴᴛ ᴛᴏ ꜱᴇᴇ.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ꜰɪᴠᴇʀʀ](https://fiverr.com/aneesijaz) | [ꜰᴀᴄᴇʙᴏᴏᴋ](https://facebook.com/lafanggaparinda)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ᴛᴡɪᴛᴛᴇʀ](https://twitter.com/billdarwaza) | [ꜱᴛᴀᴄᴋᴏᴠᴇʀꜰʟᴏᴡ](https://stackoverflow.com/users/6422974/anees)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/teacher_of_teachers) | [ᴀɴᴇᴇꜱɪᴊᴀᴢ.ᴍᴇ - ᴄᴠ](https://aneesijaz.me)
-
+<h1 align="center"> 【ＡＮＥＥＳ　ＩＪＡＺ】</h1>
+<p align="center">
+  ɪ ᴀᴍ ᴀ ꜱᴛᴜᴅᴇɴᴛ ᴏꜰ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀᴛ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ɢᴜᴊʀᴀᴛ.<br/><br/>
+  ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ | ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ | Qᴜɪᴄᴋ ʟᴇᴀʀɴᴇʀ | ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ʟᴏᴠᴇʀ<br/><br/>
+  ʟᴏᴠᴇ ᴛᴏ ᴡᴏʀᴋ ᴏɴ ɴᴇᴡ ᴘʀᴏᴊᴇᴄᴛ ᴇᴠᴇʀʏ ᴅᴀʏ.<br/><br/>
+  ᴏᴘᴇɴ ꜰᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴏɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴘʀᴏᴊᴇᴄᴛ.<br/><br/>
+  ꜱᴏᴍᴇ ᴘʀᴏꜰɪʟᴇꜱ ʏᴏᴜ ᴍᴀʏ ᴡᴀɴᴛ ᴛᴏ ꜱᴇᴇ.<br/><br/>
+  <a href="https://fiverr.com/aneesijaz" target="_blank">ꜰɪᴠᴇʀʀ</a> |
+  <a href="https://facebook.com/lafanggaparinda" target="_blank">ꜰᴀᴄᴇʙᴏᴏᴋ</a><br/>
+  <a href="https://twitter.com/billdarwaza" target="_blank">ᴛᴡɪᴛᴛᴇʀ</a> |
+  <a href="https://stackoverflow.com/users/6422974/anees" target="_blank">ꜱᴛᴀᴄᴋᴏᴠᴇʀꜰʟᴏᴡ</a> <br/>
+  <a href="https://instagram.com/teacher_of_teachers" target="_blank">ɪɴꜱᴛᴀɢʀᴀᴍ</a> |
+  <a href="https://aneesijaz.me" target="_blank">ᴀɴᴇᴇꜱɪᴊᴀᴢ.ᴍᴇ - ᴄᴠ</a><br/>
+</p>
 
 <!--
 **aneesijaz/aneesijaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
