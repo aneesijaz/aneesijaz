@@ -1,30 +1,20 @@
-### Hi THERE 👋
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;【ＡＮＥＥＳ　ＩＪＡＺ】
 
-It's me Anees Ijaz.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ɪ ᴀᴍ ᴀ ꜱᴛᴜᴅᴇɴᴛ ᴏꜰ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀᴛ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ɢᴜᴊʀᴀᴛ.
 
-I am a student of SOFTWARE ENGINEERING at university of Gujrat.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ | ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ | Qᴜɪᴄᴋ ʟᴇᴀʀɴᴇʀ | ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ʟᴏᴠᴇʀ
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ʟᴏᴠᴇ ᴛᴏ ᴡᴏʀᴋ ᴏɴ ɴᴇᴡ ᴘʀᴏᴊᴇᴄᴛ ᴇᴠᴇʀʏ ᴅᴀʏ.
 
-LOVE CODING | PASSIONATE | QUICK LEARNER | JAVASCRIPT LOVER
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ᴏᴘᴇɴ ꜰᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴏɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴘʀᴏᴊᴇᴄᴛ.
 
-Love to work on new project every day.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ꜱᴏᴍᴇ ᴘʀᴏꜰɪʟᴇꜱ ʏᴏᴜ ᴍᴀʏ ᴡᴀɴᴛ ᴛᴏ ꜱᴇᴇ.
 
-Open for collaboration on javascript project.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ꜰɪᴠᴇʀʀ](https://fiverr.com/aneesijaz) | [ꜰᴀᴄᴇʙᴏᴏᴋ](https://facebook.com/lafanggaparinda)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ᴛᴡɪᴛᴛᴇʀ](https://twitter.com/billdarwaza) | [ꜱᴛᴀᴄᴋᴏᴠᴇʀꜰʟᴏᴡ](https://stackoverflow.com/users/6422974/anees)
 
-SOME PROFILES YOU MAY WANT TO SEE.
-
-
-[Fiverr](https://fiverr.com/aneesijaz)
-
-[Facebook](https://facebook.com/lafanggaparinda)
-
-[Twitter](https://twitter.com/billdarwaza)
-
-[StackOverFlow](https://stackoverflow.com/users/6422974/anees)
-
-[Instagram](https://instagram.com/teacher_of_teachers)
-
-[aneesijaz.me - CV](https://aneesijaz.me)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ɪɴꜱᴛᴀɢʀᴀᴍ](https://instagram.com/teacher_of_teachers) | [ᴀɴᴇᴇꜱɪᴊᴀᴢ.ᴍᴇ - ᴄᴠ](https://aneesijaz.me)
 
 
 <!--
