@@ -6,12 +6,7 @@
   ʟᴏᴠᴇ ᴛᴏ ᴡᴏʀᴋ ᴏɴ ɴᴇᴡ ᴘʀᴏᴊᴇᴄᴛ ᴇᴠᴇʀʏ ᴅᴀʏ.<br/>
   ᴏᴘᴇɴ ꜰᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴏɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴘʀᴏᴊᴇᴄᴛ.<br/>
   ꜱᴏᴍᴇ ᴘʀᴏꜰɪʟᴇꜱ ʏᴏᴜ ᴍᴀʏ ᴡᴀɴᴛ ᴛᴏ ꜱᴇᴇ.<br/><br/>
-  <a href="https://fiverr.com/aneesijaz" target="_blank">ꜰɪᴠᴇʀʀ</a> |
-  <a href="https://facebook.com/lafanggaparinda" target="_blank">ꜰᴀᴄᴇʙᴏᴏᴋ</a><br/>
-  <a href="https://twitter.com/billdarwaza" target="_blank">ᴛᴡɪᴛᴛᴇʀ</a> |
-  <a href="https://stackoverflow.com/users/6422974/anees" target="_blank">ꜱᴛᴀᴄᴋᴏᴠᴇʀꜰʟᴏᴡ</a> <br/>
-  <a href="https://instagram.com/teacher_of_teachers" target="_blank">ɪɴꜱᴛᴀɢʀᴀᴍ</a> |
-  <a href="https://aneesijaz.me" target="_blank">ᴀɴᴇᴇꜱɪᴊᴀᴢ.ᴍᴇ - ᴄᴠ</a><br/>
+  <a href="https://fiverr.com/aneesijaz" target="_blank">ꜰɪᴠᴇʀʀ</a>
 </p>
 
 <!--
